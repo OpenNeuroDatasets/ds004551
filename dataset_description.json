@@ -1,5 +1,5 @@
 {
-    "Name": "MI project\n",
+    "Name": "iEEG on children during slow wave sleep\n",
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "License": "CC0",
